@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+.idea
+.DS_store
+
+log.txt
+*.log
+log.*
+
+secret.py
